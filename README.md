@@ -5,7 +5,7 @@ int main() {
 
   printf("Some info...\n");
 
-  char langs[] = "Python, Go, JavaScript";
+  char langs[] = "Python, Go, JavaScript (C/Cpp, C#)";
   char os[] = "Arch, Debian, Windows";
   char website[] = "kismetdev.net";
 
