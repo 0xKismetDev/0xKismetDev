@@ -23,7 +23,8 @@ Short about me 👨‍💻:
 - I do sysadmin stuff most of the time, with some coding here and there ⌨️.
 - I break servers and the like, I.e penetration testing 🔨.
 - Usually running Arch w/ Gnome or dwm 🐧.
-- Want to contact me? check the socials to the left. <-
+- Github deleted my old profile(s) for apparent TOS violation, so not all repos are still here 🤨.
+- Want to contact me? check the socials to the left ⬅️. 
 
 <br>
 <br>
