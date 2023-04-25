@@ -24,3 +24,9 @@ Short about me 👨‍💻:
 - I break servers and the like, I.e penetration testing 🔨.
 - Usually running Arch w/ Gnome or dwm 🐧.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+*PS: Github hates me cause I like breaking TOS*
