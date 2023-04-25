@@ -32,4 +32,4 @@ Short about me 👨‍💻:
 <br>
 <br>
 
-*PS: Github hates me cause I like breaking TOS*
+*PS: Github hates me*
