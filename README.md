@@ -19,12 +19,8 @@ int main() {
 ```
 
 #
-
-
-
-- 🔭 I’m currently working on: _violating Github's TOS_.
-- 🌱 I’m currently learning: _ReactJS, Cpp & C#_.
-- 💬 Ask me about: _Networking & Linux_.
-- 📫 How to reach me: _open your eyes 👀_.
-- ⚡ Fun fact: _Github doesn't like me_.
+Short about me 👨‍💻:
+- I do sysadmin stuff most of the time, with some coding here and there ⌨️.
+- I break servers and the like, I.e penetration testing 🔨.
+- Usually running Arch w/ Gnome or dwm 🐧.
 
