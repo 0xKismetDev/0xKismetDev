@@ -29,8 +29,7 @@ int main() {
 **Currently learning/working with 🧠 :**
 - C/Cpp
 - C#
-- ReactJs
+- GoLang
 <br>
 <br>
 
-*PS: Github hates me*
