@@ -1,3 +1,9 @@
+ <div align="center">
+   
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00F70A&background=7E25FF00&center=true&vCenter=true&width=435&lines=Part-time+Coder+%F0%9F%92%BB.;Cyber+Security+Enthusiast+%F0%9F%A4%96.;Linux+user+%F0%9F%90%A7.)](https://git.io/typing-svg)
+  
+ </div>
+ 
 ```c
 #include <stdio.h>
 
