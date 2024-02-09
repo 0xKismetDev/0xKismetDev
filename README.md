@@ -28,6 +28,7 @@ int main() {
 **Short about me 👨‍💻 :**
 - I do sysadmin stuff most of the time, with some coding here and there ⌨️.
 - I break servers and the like, I.e penetration testing 🔨.
+- Very interested in OSINT 🔍.
 - Usually running Arch w/ Gnome or dwm 🐧.
 - Want to contact me? check the socials to the left ⬅️. 
 
