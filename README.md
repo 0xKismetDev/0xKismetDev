@@ -29,9 +29,12 @@ int main() {
 - I break servers and the like, I.e penetration testing 🔨.
 - Very interested in OSINT 🔍.
 - Usually running Arch w/ Gnome or dwm 🐧.
-- Currently in school for CS, doing part-time full stack work.
-- Also doing car stuff, including ECU tuning/chipping 
+- Currently in school for CS, doing part-time full stack work ⚒️
+- Also doing car stuff, including ECU tuning/chipping 🚗
 - Want to contact me? check the socials to the left ⬅️. 
+
+**Current active websites 🌐:**  
+[haveibeenleaked](https://haveibeenleaked.xyz/) - Check if you have been compromised by an Info Stealer
 
 **Currently learning/working with 🧠 :**
 - C/Cpp
