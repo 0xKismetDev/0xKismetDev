@@ -26,11 +26,11 @@ int main() {
 
 #
 **Short about me 👨‍💻 :**
-- I do sysadmin stuff most of the time, with some coding here and there ⌨️.
 - I break servers and the like, I.e penetration testing 🔨.
 - Very interested in OSINT 🔍.
 - Usually running Arch w/ Gnome or dwm 🐧.
 - Currently in school for CS, doing part-time full stack work.
+- Also doing car stuff, including ECU tuning/chipping 
 - Want to contact me? check the socials to the left ⬅️. 
 
 **Currently learning/working with 🧠 :**
