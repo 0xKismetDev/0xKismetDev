@@ -34,7 +34,7 @@ int main() {
 - Want to contact me? check the socials to the left ⬅️. 
 
 **Current active websites 🌐:**  
-[haveibeenleaked](https://haveibeenleaked.xyz/) - Check if you have been compromised by an Info Stealer
+- [haveibeenleaked](https://haveibeenleaked.xyz/) - Check if you have been compromised by an Info Stealer
 
 **Currently learning/working with 🧠 :**
 - C/Cpp
