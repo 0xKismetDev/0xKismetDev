@@ -13,11 +13,9 @@ int main() {
 
   char langs[] = "Python, Go, JavaScript (C/Cpp, C#)";
   char os[] = "Arch, Debian, Windows";
-  char website[] = "kismetdev.net";
 
   printf("Languages: %s\n", langs);
   printf("OS: %s\n", os);
-  printf("Website: %s\n", website);
   
   return 0;
 }
