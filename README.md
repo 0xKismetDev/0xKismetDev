@@ -32,7 +32,7 @@ int main() {
 - Want to contact me? check the socials to the left ⬅️. 
 
 **Current active websites 🌐:**  
-- [haveibeenleaked](https://haveibeenleaked.xyz/) - Check if you have been compromised by an Info Stealer
+- [cyphex.cc](https://cyphex.cc/) - (Private) Check if you have been compromised by an Info Stealer/Data Breach
 
 **Currently learning/working with 🧠 :**
 - C/Cpp
